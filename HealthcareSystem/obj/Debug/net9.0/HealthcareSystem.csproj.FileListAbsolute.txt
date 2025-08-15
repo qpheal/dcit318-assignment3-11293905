@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.exe
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.deps.json
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\bin\Debug\net9.0\HealthcareSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\refint\HealthcareSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCITT\HealthcareSystem\obj\Debug\net9.0\ref\HealthcareSystem.dll
