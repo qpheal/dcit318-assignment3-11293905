@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.exe
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.deps.json
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\bin\Debug\net9.0\InventoryLoggerSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\refint\InventoryLoggerSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\InventoryLoggerSystem.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCITT\InventoryLoggerSystem\obj\Debug\net9.0\ref\InventoryLoggerSystem.dll
