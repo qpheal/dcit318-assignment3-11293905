@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.exe
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.deps.json
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\bin\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\refint\FinanceManagementSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCITT\FinanceManagementSystem\obj\Debug\net9.0\ref\FinanceManagementSystem.dll
