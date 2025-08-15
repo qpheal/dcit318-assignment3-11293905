@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.exe
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.deps.json
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\refint\WarehouseInventorySystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCITT\WarehouseInventorySystem\obj\Debug\net9.0\ref\WarehouseInventorySystem.dll
