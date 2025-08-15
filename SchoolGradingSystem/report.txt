@@ -1,0 +1,5 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+Michael Johnson (ID: 102): Score = 72, Grade = B
+Linda Owusu (ID: 103): Score = 67, Grade = C
+Samuel Boateng (ID: 104): Score = 58, Grade = D
+Jane Doe (ID: 105): Score = 45, Grade = F

@@ -1,0 +1,5 @@
+101, Alice Smith, 84
+102, Michael Johnson, 72
+103, Linda Owusu, 67
+104, Samuel Boateng, 58
+105, Jane Doe, 45

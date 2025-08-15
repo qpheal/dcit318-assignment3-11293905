@@ -1,0 +1,15 @@
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.exe
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.deps.json
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\bin\Debug\net9.0\SchoolGradingSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.sourcelink.json
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\refint\SchoolGradingSystem.dll
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.pdb
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\God's baby girl\Downloads\DCITT\SchoolGradingSystem\obj\Debug\net9.0\ref\SchoolGradingSystem.dll
